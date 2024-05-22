@@ -156,6 +156,8 @@ No known bugs at this time.
 ## Authors
 OKO Michael Akpu - [github](https://github.com/Ok-michael)
 
+Prosper Ihediwa Oyedikachi - [Github](https://github.com/headwurld)
+
 Efa-Iwa Eleng - [Github](https://github.com/efaeleng) / [Twitter](https://twitter.com/efaeleng)
 
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
